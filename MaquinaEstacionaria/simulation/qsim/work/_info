@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Documentos\UnPocoDeTodo\MaquinaEstadosAlpha\MaquinaEstacionaria\simulation\qsim
+vMaquinaDestadosV1
+Z1 !s100 TR4hI>M3f=`Y_YI`mT]?<3
+Z2 ITEB`5LgdZCRRQl5Kli=8]1
+Z3 VML_4FiY676HmB>dHNG=551
+Z4 dD:\Documentos\UnPocoDeTodo\MaquinaEstadosAlpha\MaquinaEstacionaria\simulation\qsim
+Z5 w1675814161
+Z6 8MaquinaDestadosV1.vo
+Z7 FMaquinaDestadosV1.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|MaquinaDestadosV1.vo|
+Z10 o-work work -O0
+Z11 n@maquina@destados@v1
+!i10b 1
+!s85 0
+Z12 !s108 1675814162.243000
+Z13 !s107 MaquinaDestadosV1.vo|
+!s101 -O0
+vMaquinaDestadosV1_vlg_check_tst
+!i10b 1
+Z14 !s100 >2d=kIaI3SRK7<<kYBaJY1
+Z15 ICf0L7ZS?`L;LLjdikiT<82
+Z16 VfTgZ451IaCRhflEj5TcUM3
+R4
+R5
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 65
+R8
+r1
+!s85 0
+31
+Z19 !s108 1675814162.310000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z22 n@maquina@destados@v1_vlg_check_tst
+vMaquinaDestadosV1_vlg_sample_tst
+!i10b 1
+Z23 !s100 9WlM9S0NE`]SzP=:7n9VX2
+Z24 IE<W_;X5hERgHeDEo1<ZJo1
+Z25 VaTJ21QBe]I=RkR6NZD?6h1
+R4
+R5
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z26 n@maquina@destados@v1_vlg_sample_tst
+vMaquinaDestadosV1_vlg_vec_tst
+!i10b 1
+!s100 Nn[B_VMGMU1kYDjFGA^SO3
+IbBdSJJ7khMm3Wzin3^J2=0
+Z27 VQ]CVf5l<<A?kedP5QiSW81
+R4
+R5
+R17
+R18
+Z28 L0 268
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z29 n@maquina@destados@v1_vlg_vec_tst
